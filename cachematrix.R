@@ -53,7 +53,7 @@ cacheSolve <- function(x, ...) {
  
     x$setInverse(m)
 
-
+#get solved matrix
     m
 }  
         
